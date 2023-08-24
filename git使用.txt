@@ -1,4 +1,8 @@
 1. 创建一个新文件夹
 2. 右键 git bash here
 3. 第一次使用要git init
-4. git add “文件名”
+4. git add 文件名
+5. git commit -m "修改信息"
+6. git branch -M 分支名字
+7. git remote add origin https://github.com/wxchien/The-first-repo.git
+8. git push -u origin 分支名字
