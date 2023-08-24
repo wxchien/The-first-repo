@@ -1,0 +1,4 @@
+1. 创建一个新文件夹
+2. 右键 git bash here
+3. 第一次使用要git init
+4. git add “文件名”
