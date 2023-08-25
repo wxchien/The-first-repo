@@ -6,3 +6,4 @@
 6. git branch -M 分支名字
 7. git remote add origin https://github.com/wxchien/The-first-repo.git
 8. git push -u origin 分支名字
+ 
